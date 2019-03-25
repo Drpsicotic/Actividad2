@@ -2,6 +2,6 @@
 public class Hola_Mundo {
 
 	public static void main(String[] args) {
-		System.out.print("Hola Mundo. Cambio de Carlos 1.");
+		System.out.print("Hola Mundo. Cambio de Admin v1.0.");
 	}
 }
